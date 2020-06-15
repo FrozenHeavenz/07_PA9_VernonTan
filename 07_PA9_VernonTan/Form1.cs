@@ -56,6 +56,11 @@ namespace _07_PA9_VernonTan
                         ConvertedAmt = (UserInput * 81.97);
                         txt_Converted.Text = ConvertedAmt.ToString();
                     }
+                    else if (rb_Ringgit.Checked)
+                    {
+                        ConvertedAmt = (UserInput * 3.01);
+                        txt_Converted.Text = ConvertedAmt.ToString();
+                    }
                     else
                     {
                         txt_Converted.Text = "Please Select Currency!";
@@ -87,6 +92,11 @@ namespace _07_PA9_VernonTan
         }
 
         private void rb_Yen_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rb_Ringgit_CheckedChanged(object sender, EventArgs e)
         {
 
         }
