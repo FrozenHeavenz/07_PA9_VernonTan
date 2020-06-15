@@ -1,0 +1,9 @@
+C:\Users\G11\Desktop\07_PA9_VernonTan\07_PA9_VernonTan\bin\Debug\07_PA9_VernonTan.exe.config
+C:\Users\G11\Desktop\07_PA9_VernonTan\07_PA9_VernonTan\bin\Debug\07_PA9_VernonTan.exe
+C:\Users\G11\Desktop\07_PA9_VernonTan\07_PA9_VernonTan\bin\Debug\07_PA9_VernonTan.pdb
+C:\Users\G11\Desktop\07_PA9_VernonTan\07_PA9_VernonTan\obj\Debug\_07_PA9_VernonTan.Form1.resources
+C:\Users\G11\Desktop\07_PA9_VernonTan\07_PA9_VernonTan\obj\Debug\_07_PA9_VernonTan.Properties.Resources.resources
+C:\Users\G11\Desktop\07_PA9_VernonTan\07_PA9_VernonTan\obj\Debug\07_PA9_VernonTan.csproj.GenerateResource.cache
+C:\Users\G11\Desktop\07_PA9_VernonTan\07_PA9_VernonTan\obj\Debug\07_PA9_VernonTan.exe
+C:\Users\G11\Desktop\07_PA9_VernonTan\07_PA9_VernonTan\obj\Debug\07_PA9_VernonTan.pdb
+C:\Users\G11\Desktop\07_PA9_VernonTan\07_PA9_VernonTan\obj\Debug\07_PA9_VernonTan.csprojAssemblyReference.cache
